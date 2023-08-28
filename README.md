@@ -5,7 +5,7 @@ I'm a 2nd Year College Student pursuing a degree in Computer Science, with a kee
 - 🔭 I’m currently working on creating projects and enhancing my skills, especially in Web Development.
 - 🌱 I’m currently learning and enhancing my skills in Javascript.
 - 👯 I’m looking to collaborate with other developers to gain knowledge and grow together.
-- 🤔 I’m seeking help with node.js, express, and typescript to further my expertise.
+- 🤔 I’m seeking help with react, node.js, express, and typescript to further my expertise.
 - 💬 Ask me about web development, HTML, CSS, and JavaScript.
 - 📫 How to reach me: You can send me a message via my Gmail at claridadcaesar889@gmail.com.
 
