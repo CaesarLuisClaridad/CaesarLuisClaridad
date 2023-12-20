@@ -6,7 +6,7 @@ I'm a 2nd Year College Student pursuing a degree in Computer Science, with a kee
 - 🌱 I’m currently learning and enhancing my skills in MERN Stack.
 - 👯 I’m looking to collaborate with other developers to gain knowledge and grow together.
 - 🤔 I’m seeking help with react, node.js, express, and typescript to further my expertise.
-- 💬 The technologies I've used are HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, Express, and MongoDB.
+- 💬 The technologies I've used are HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, Express.js, and MongoDB.
 - 📫 How to reach me: You can send me a message via my Gmail at claridadcaesar889@gmail.com.
 
 Looking forward to connecting with fellow developers and learning from each other! 😄
