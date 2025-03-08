@@ -9,15 +9,26 @@ I'm a **3rd-year Computer Science student** passionate about **Web Development**
 - 🤝 Looking to **collaborate with fellow developers** to grow together  
 
 ## 🛠 Tech Stack:  
-✔ **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
-✔ **Backend:** Node.js, Express.js  
-✔ **Database:** MongoDB  
+✔ **Frontend:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Bootstrap  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 React.js  
+
+✔ **Backend:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Node.js  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Express.js  
+
+✔ **Database:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 MongoDB  
 
 ## 🔧 Tools:  
 ✔ Cloudinary  
 ✔ Nodemailer  
 ✔ Upstash  
 ✔ Arcjet  
+✔ Postman *(for API testing)*  
 
 ## 🖥️ Code Editors:  
 ✔ Visual Studio Code (VS Code)  
