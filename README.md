@@ -9,19 +9,19 @@ I'm a **3rd-year Computer Science student** passionate about **Web Development**
 - 🤝 Looking to **collaborate with fellow developers** to grow together  
 
 ## 🛠 Tech Stack:  
-**Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js |  
-**Backend:** Node.js, Express.js |  
-**Database:** MongoDB  
+🎨 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js |  
+🛠 **Backend:** Node.js, Express.js |  
+🗄️ **Database:** MongoDB  
 
 ## 🔧 Tools:  
-- Cloudinary  
-- Nodemailer  
-- Upstash  
-- Arcjet  
-- Postman *(for API testing)*  
+- ☁️ Cloudinary  
+- 📧 Nodemailer  
+- ⚡ Upstash  
+- 🚀 Arcjet  
+- 📡 Postman *(for API testing)*  
 
 ## 🖥️ Code Editor:  
-- Visual Studio Code (VS Code)  
+- 📝 Visual Studio Code (VS Code)  
 
 ## 📩 Let's Connect!  
 📧 **Email:** [claridadcaesar889@gmail.com](mailto:claridadcaesar889@gmail.com)  
