@@ -8,11 +8,19 @@ I'm a **3rd-year Computer Science student** passionate about **Web Development**
 - 🔥 Learning and improving my expertise in the **MERN Stack**  
 - 🤝 Looking to **collaborate with fellow developers** to grow together  
 
-## 🛠 Tech Stack & Tools:  
+## 🛠 Tech Stack:  
 ✔ **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
 ✔ **Backend:** Node.js, Express.js  
 ✔ **Database:** MongoDB  
-✔ **Other Tools:** Cloudinary  
+
+## 🔧 Tools:  
+✔ Cloudinary  
+✔ Nodemailer  
+✔ Upstash  
+✔ Arcjet  
+
+## 🖥️ Code Editors:  
+✔ Visual Studio Code (VS Code)  
 
 ## 📩 Let's Connect!  
 📧 **Email:** [claridadcaesar889@gmail.com](mailto:claridadcaesar889@gmail.com)  
