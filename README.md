@@ -24,6 +24,6 @@ I'm a **3rd-year Computer Science student** passionate about **Web Development**
 - 📝 Visual Studio Code (VS Code)  
 
 ## 📩 Let's Connect!  
-📧 **Email:** [claridadcaesar889@gmail.com](mailto:claridadcaesar889@gmail.com)  
+📧 Email: claridadcaesarluisii@gmail.com
 
 Looking forward to collaborating and learning from each other! 🚀😃  
